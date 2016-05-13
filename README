@@ -1,0 +1,20 @@
+MongoDB Quiz Project
+Author: Giordanno Castro
+
+Usage:
+  python MongoQuiz.py <csvfile> <databasename> <collectionname>
+
+csvfile:
+  File name of the csv that holds the data to be imported in the database.
+
+databasename:
+  Name for the database.
+
+collectinoname:
+  Name for the collection.
+
+Usage example:
+  python MongoQuiz.py Teams.csv mydatabase mycollection
+
+Project requires the following packages:
+  pymongo (Pip command: pip install pymongo )
