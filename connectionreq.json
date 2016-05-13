@@ -1,0 +1,5 @@
+{"connectionreqs": {
+    "host" : "localhost",
+    "port" : "27017",
+  }
+}
